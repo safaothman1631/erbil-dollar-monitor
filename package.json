@@ -1,0 +1,13 @@
+{
+  "name": "erbil-dollar-monitor",
+  "version": "1.0.0",
+  "description": "Hourly Erbil Dollar exchange rate monitor via Telegram bot",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js",
+    "force": "node monitor.js --force"
+  },
+  "keywords": ["telegram", "dollar", "erbil", "exchange-rate"],
+  "author": "Safa",
+  "license": "MIT"
+}
